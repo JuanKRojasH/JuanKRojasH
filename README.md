@@ -53,11 +53,22 @@ Siempre estoy aprendiendo y explorando cómo crear soluciones <b>robustas, étic
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juan-camilo-rojas-hernandez">LinkedIn</a> •
-  <a href="mailto:juankrojash28@gmail.com">Correo</a>
-</p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+         width="52" height="40" alt="LinkedIn"/>
+  </a>
 
+  <a href="mailto:jc.rojash1@uniandes.edu.co">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+         width="52" height="40" alt="Email"/>
+  </a>
+
+  <a href="mailto:jc.rojash1@uniandes.edu.co">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg"
+         width="52" height="40" alt="Outlook"/>
+  </a>
+</div>
 
 <br clear="both">
 
