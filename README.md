@@ -53,11 +53,11 @@ Siempre estoy aprendiendo y explorando cómo crear soluciones <b>robustas, étic
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-camilo-rojas-hernandez">LinkedIn</a> •
+  <a href="mailto:juankrojash28@gmail.com">Correo</a>
+</p>
+
 
 <br clear="both">
 
