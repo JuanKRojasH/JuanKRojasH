@@ -37,6 +37,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" />
 </div>
 
+
+
+
 ---
 
 <p align="center" style="max-width: 900px;">
@@ -54,12 +57,12 @@ Siempre estoy aprendiendo y explorando cómo crear soluciones <b>robustas, étic
 ---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/juan-camilo-rojas-hern%C3%A1ndez-88b700272/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
          width="52" height="40" alt="LinkedIn"/>
   </a>
 
-  <a href="mailto:jc.rojash1@uniandes.edu.co">
+  <a href="mailto:juankrohash28@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
          width="52" height="40" alt="Email"/>
   </a>
