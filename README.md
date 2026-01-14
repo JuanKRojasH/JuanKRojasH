@@ -1,110 +1,86 @@
-# 👨‍💻 Juan Camilo Rojas Hernández  
-### Ingeniero Biomédico | Educación, Tecnología y Datos
+<br clear="both">
 
-📍 Bogotá D.C., Colombia  
-🎓 Universidad de los Andes — **Cum Laude (4.55/5.0)**  
-📧 jc.rojash1@uniandes.edu.co  
-🔗 [LinkedIn](https://linkedin.com/in/tuperfil)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
----
+###
 
-## 🚀 Sobre mí
+<br clear="both">
 
-Soy **Ingeniero Biomédico de la Universidad de los Andes**, graduado **Cum Laude**, con una fuerte orientación hacia la **innovación educativa**, el **uso de tecnología para transformar procesos de aprendizaje** y el **análisis de datos aplicado**.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" alt="spss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-Me destaco por mi capacidad para **traducir conceptos complejos en soluciones claras**, combinando pensamiento ingenieril, programación y comunicación pedagógica. Tengo experiencia trabajando en entornos académicos interdisciplinarios, apoyando tanto a estudiantes como a equipos institucionales.
+###
 
----
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=JuanKRojasH.JuanKRojasH&right_color=cornflowerblue"  />
 
-## 🧠 Áreas de interés
+###
 
-- 💻 Desarrollo de herramientas educativas basadas en tecnología  
-- 📊 Análisis de datos y pensamiento computacional  
-- 🌐 Desarrollo web (interfaces claras y funcionales)  
-- 🤖 Aplicaciones de IA y automatización en educación y salud  
-- 📚 Innovación en procesos de enseñanza–aprendizaje  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanKRojasH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanKRojasH&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=1&theme=default&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 
----
+###
 
-## 🛠️ Tecnologías y herramientas
+<br clear="both">
 
-### Lenguajes y programación
-- **Python** 🐍 (análisis de datos, scripts, prototipado)
-- **HTML & JavaScript** 🌐 (desarrollo web básico e interfaces)
-- R, SPSS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+</div>
 
-### Hardware & IoT
-- Arduino
-- **ESP32**
-- PlatformIO
-- Sensores, actuadores, MQTT, FreeRTOS
+###
 
-### Otras herramientas
-- Git & GitHub
-- Roblox Studio (entornos interactivos y simulación)
-- Diseño experimental y análisis de resultados
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
----
-
-## 📘 Experiencia académica destacada
-
-### 👨‍🏫 Monitor Académico  
-**Universidad de los Andes** | Ago 2024 – Dic 2024  
-
-- Apoyo al curso *Principios Matemáticos para Medicina*
-- Preparación de clases complementarias y material educativo
-- Acompañamiento individual y grupal
-- Evaluación y retroalimentación académica
-
-⭐ **Calificación promedio por estudiantes: 4.81 / 5.00**
-
----
-
-### 🎓 Monitor de Scouting  
-**Universidad de los Andes** | Feb 2025 – Jun 2025  
-
-- Orientación vocacional a aspirantes y familias
-- Comunicación de contenidos técnicos a públicos no especializados
-- Coordinación de eventos académicos y visitas guiadas
-
----
-
-## 📊 Proyectos y trabajos relevantes
-
-- 📱 **OrientApp**  
-  Aplicación móvil para la orientación de personas con discapacidad visual en TransMilenio.
-
-- 🧪 Miembro del **Grupo de Investigación GINIB**  
-  Nanobiomateriales, microfluídica, análisis de datos y diseño experimental.
-
-- 🌐 **IntelliFlow (en desarrollo)**  
-  Plataforma web con IA para diseño automático de microfluidos y optimización de síntesis de nanomateriales.
-
----
-
-## 📄 Publicaciones científicas
-
-- 📘 *Carbon-Based Nanocarriers* — Taylor & Francis  
-- 🧠 *Transformer Architectures in Materials Informatics* — Submitted (Wiley)  
-- 🔬 *IntelliFlow: AI-Powered Web Platform* — In progress  
-
----
-
-## 🌎 Idiomas
-
-- Español: Nativo  
-- Inglés: B2  
-
----
-
-## 🎯 ¿Qué estoy buscando?
-
-Oportunidades donde pueda:
-- Aplicar **Python y desarrollo web** para resolver problemas reales
-- Participar en proyectos de **educación, tecnología, datos o innovación**
-- Crecer en entornos colaborativos y de alto nivel académico o profesional
-
----
-
-📬 **¿Te interesa colaborar o conversar?**  
-No dudes en contactarme por correo o LinkedIn.
+###
